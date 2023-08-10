@@ -60,6 +60,15 @@ const Maquinaria = () => {
                 Es convencional y por sus características es sumamente necesaria
                 por su velocidad y practicidad.
               </p>
+
+
+              <h2 className="text-3xl text-center pb-4 uppercase pt-12">
+                Torno Pesado Italiano
+              </h2>
+              <p>2.2 m entre puntos</p>
+              <p>500mm de volteo</p>
+              
+
               <h2 className="text-3xl text-center pb-4 uppercase pt-12">
                 Fresadora CNC Sistems 850-D
               </h2>

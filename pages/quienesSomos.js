@@ -21,9 +21,9 @@ const QuienesSomos = () => {
 
               <p className="font-bold">MAM Mecanizados CNC</p>
               <p>
-                En nuestra PyMe contamos con los medios para prestar servicio de
+                Contamos con los medios para prestar servicio de
                 mecanizados especialmente por control númerico C.N.C.  Nuestra
-                PyME esta ubicada en Godoy Cruz centro, Mendoza.
+                Estamos ubicados en Godoy Cruz centro, Mendoza.
               </p>
               <p>El titular: Técnico en producción industrial automatizada, con más de 25 años de experiencia en el rubro Metal Mecánico</p>
               <p>
@@ -59,7 +59,7 @@ const QuienesSomos = () => {
             <FaEye className="mx-auto text-4xl text-dgreen " />
             <h2 className="text-2xl">Nuestra Visión</h2>
             <p className="pt-8">
-            Consolidar el reconoc en todo el país como PYME de fabricación de piezas de calidad mediante planos o muestras para la Industria Metalmecánica.
+            Consolidar el reconocimiento en todo el país como PYME de fabricación de piezas de calidad mediante planos o muestras para la Industria Metalmecánica.
             </p>
           </div>
         </section>
