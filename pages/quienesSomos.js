@@ -21,9 +21,9 @@ const QuienesSomos = () => {
 
               <p className="font-bold">MAM Mecanizados CNC</p>
               <p>
-                En MAM MECANIZADOS CNC nos dedicamos a prestar servicio de
-                mecanizados especialmente por control númerico C.N.C.  Nuestro
-                taller esta ubicado en Godoy Cruz centro.
+                En nuestra PyMe contamos con los medios para prestar servicio de
+                mecanizados especialmente por control númerico C.N.C.  Nuestra
+                PyME esta ubicada en Godoy Cruz centro, Mendoza.
               </p>
               <p>El titular: Técnico en producción industrial automatizada, con más de 25 años de experiencia en el rubro Metal Mecánico</p>
               <p>
@@ -31,7 +31,7 @@ const QuienesSomos = () => {
                 laboral.
               </p>
               <p>
-                En nuestro taller contamos con los medios humanos y maquinaria adecuada para la
+                En nuestro PyME contamos con los medios humanos y maquinaria adecuada para la
                 realización de los trabajos que ofrecemos, dando un servicio en
                 las mejores condiciones de precio, calidad y cumplimientos de
                 plazos de entrega.
@@ -59,7 +59,7 @@ const QuienesSomos = () => {
             <FaEye className="mx-auto text-4xl text-dgreen " />
             <h2 className="text-2xl">Nuestra Visión</h2>
             <p className="pt-8">
-            Nuestra visión es forjar alianzas duraderas con nuestros clientes y colaboradores, proporcionándoles soluciones de mecanizado que superen sus expectativas y contribuyan al éxito continuo de sus proyectos. A través de la inversión constante en talento humano altamente capacitado y en tecnologías de vanguardia, aspiramos a redefinir los estándares de precisión y perfección en cada componente que producimos.
+            Consolidar el reconoc en todo el país como PYME de fabricación de piezas de calidad mediante planos o muestras para la Industria Metalmecánica.
             </p>
           </div>
         </section>

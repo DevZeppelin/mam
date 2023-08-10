@@ -88,11 +88,11 @@ export default function Home() {
               name="MANTENIMIENTO DE EQUIPOS DE BOMBEO"
               src="0008.jpeg"
             />
+            <GridComponent name="LOGISTICA" src="0010.jpeg" />
             <GridComponent
               name="SERVICIO DE CONTROL DE CALIDAD PARA EMPRESAS"
-              src="0009.jpeg"
+              src="logistica.png"
             />
-            <GridComponent name="LOGISTICA" src="0010.jpeg" />
             <div className="m-6 space-y-4 md:space-y-4 text-center my-auto element">
               <h2 className="font-bold text-xl">
                 Más sobre nuestros servicios

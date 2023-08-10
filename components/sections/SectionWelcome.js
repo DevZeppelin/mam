@@ -41,7 +41,7 @@ const SectionWelcome = () => {
               <p>
                 En MAM MECANIZADOS CNC nos dedicamos a realizar productos y
                 prestar servicio de mecanizados por control númerico C.N.C y
-                convecional. Nuestro taller esta ubicado en Godoy Cruz centro.
+                convecional. Nuestra PyME esta ubicado en Godoy Cruz centro.
               </p>
 
               <p>

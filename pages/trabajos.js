@@ -27,7 +27,7 @@ const Trabajos = () => {
 
             <div className="p-6 md:p-32 space-y-8 text-xl">
               <p>
-                Piezas mecanizadas bajo planos o muestras por nuestro taller en
+                Piezas mecanizadas bajo planos o muestras por nuestra PyME  en
                 distintos tipos de materiales ferrosos y no ferrosos como aceros
                 SAE 4140, 1045, 1010, 1020 Inoxidables 316,410,4210, 304;
                 Duplex, Nitronix, Monel. Aluminios. Bronces. Cobres.Todo tipo de

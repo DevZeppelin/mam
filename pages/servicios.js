@@ -34,15 +34,12 @@ const Servicios = () => {
                       <li>
                         • Fresados CNC recorridos X 850mm Y 450mm Z 450mm.
                       </li>
-                      <li>
-                        • Fresados convencionales.
-                      </li>
+                      <li>• Fresados convencionales: Fresadora universal N5</li>
 
                       <li>
                         • Torno convencional pesado con 500mm de volteo sobre
                         bancada y 2.20m entre puntos.
                       </li>
-                      <li>• Fresados convencionales .</li>
                       <li>• Egujereadora Roscadora. </li>
                       <li>
                         • Corte de de todo tipo de materiales hasta 200mm de
@@ -53,6 +50,16 @@ const Servicios = () => {
                         • Soldaduras TIG-MIG-INVERTER para aceros inoxidables.
                         Aluminio. fundiciones y aceros de todo tipo.
                       </li>
+                      <li>
+                        • Instrumentos de medición:
+                        <li className="pt-4"> Micrometros de 0 a 200mm </li>
+                        <li>Micrometros de profundidad</li>
+                        <li>Alesometros</li>
+                        <li>Calibres digitales de 200mm / 300mm / 600mm</li>
+                        <li>Goniometros</li>
+                        <li>Comparadores y Palpadores</li>
+                        <p>Todo en marca de primer nivel: Mitutoyo Japones.</p>
+                      </li>
                     </ul>
                   </div>
                 </ul>
@@ -60,6 +67,9 @@ const Servicios = () => {
             </div>
 
             <div className="mx-12 md:mx-32 mt-8 text-center fadeIn element space-y-4">
+
+              <GridComponent name="Fresa Plana" src="/logistica.png" />
+
               <h2 className="text-3xl text-left pb-4">Trabajos</h2>
 
               <GridComponent name="Fresa Plana" src="/a1.jpg" />

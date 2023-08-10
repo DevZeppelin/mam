@@ -3,7 +3,7 @@ import React from "react";
 const GridComponent2 = ({name, src}) => {
   return (
 <div className="relative">
-      <div className="w-80 md:w-96 mx-auto pt-4">
+      <div className="w-80 md:w-96 mx-auto pb-4">
         {/* <div className="indexGridImageText rounded-b-2xl">{name}</div> */}
         <img
           src={src}          
