@@ -106,7 +106,7 @@ export default function Home() {
         </section>
 
         <section>
-          <div className="p-8 md:p-32 py-32  font-bold text-black text-center bg-cover bg-hero2 bg-fixed grid grid-cols-1 md:grid-cols-2">
+          <div className="p-8 md:p-32 py-32  font-bold text-black text-center bg-clip-border md:bg-cover bg-hero2 bg-fixed grid grid-cols-1 md:grid-cols-2">
             <div></div>
             <div
               ref={cartelFixed}
@@ -187,7 +187,7 @@ export default function Home() {
         </section>
 
         <section name="hero 3">
-          <div className="p-8 md:p-32 py-32  font-bold text-black text-center bg-cover bg-hero3 bg-fixed grid grid-cols-1 md:grid-cols-2 h-96"></div>
+          <div className="p-8 md:p-32 py-32  font-bold text-black text-center bg-contain md:bg-cover bg-hero3 bg-fixed grid grid-cols-1 md:grid-cols-2 h-96"></div>
         </section>
       </Layout>
     </div>
