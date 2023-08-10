@@ -59,9 +59,7 @@ const QuienesSomos = () => {
             <FaEye className="mx-auto text-4xl text-dgreen " />
             <h2 className="text-2xl">Nuestra Visión</h2>
             <p className="pt-8">
-              Consolidar el reconocimiento en todo el país como fabricante
-              nacional de cortadoras y otros productos de calidad para la
-              industria metalúrgica.
+            Nuestra visión es forjar alianzas duraderas con nuestros clientes y colaboradores, proporcionándoles soluciones de mecanizado que superen sus expectativas y contribuyan al éxito continuo de sus proyectos. A través de la inversión constante en talento humano altamente capacitado y en tecnologías de vanguardia, aspiramos a redefinir los estándares de precisión y perfección en cada componente que producimos.
             </p>
           </div>
         </section>
