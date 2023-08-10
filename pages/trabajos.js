@@ -40,7 +40,7 @@ const Trabajos = () => {
               </p>
 
               <p className="text-4xl">Industrias:</p>
-              <ul className="space-y-4 grid grid-cols-3">
+              <ul className="space-y-4 flex flex-col md:grid md:grid-cols-3">
                 <li>• Alimenticia</li>
                 <li>• Olivicola</li>
                 <li>• Vitivinicola</li>
