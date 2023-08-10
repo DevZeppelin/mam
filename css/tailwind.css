@@ -1,0 +1,26 @@
+/* purgecss start ignore */
+@import "tailwindcss/base";
+/* purgecss end ignore */
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.btn {
+    @apply bg-dgreen p-4 rounded-lg text-white font-bold ;
+}
+
+.btn:hover {
+    @apply bg-bluemam text-white font-extrabold transform -translate-y-2 transition duration-500 cursor-pointer border-2 border-dgreen rounded-xl;
+}
+
+.service-h2 {
+    @apply text-lg text-black font-bold mb-2;
+}
+
+.indexGridImageText {
+    @apply w-full text-white text-sm md:text-base border-b-2 border-dgreen h-14 absolute bg-dgreen bottom-0 z-10 py-2 hover:bg-darkGray uppercase font-bold transition duration-500 px-1;
+}
+
+
+.gridImage {
+    @apply  border-2 border-gray w-full;
+}
