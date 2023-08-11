@@ -50,7 +50,7 @@ export default function Home() {
           ref={sectionGrid}
           className={SectionGridVisible ? "animate-appear" : ""}
         >
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 m-8 md:m-24 text-center fadeIn element">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 m-6 md:m-24 text-center fadeIn element">
             <div className="my-auto font-bold flex">
               <div className="w-3 h-32 bg-dgreen my-auto"></div>
               <div className="text-lg m-6">

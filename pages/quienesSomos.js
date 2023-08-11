@@ -31,7 +31,7 @@ const QuienesSomos = () => {
                 laboral.
               </p>
               <p>
-                En nuestro PyME contamos con los medios humanos y maquinaria adecuada para la
+                En nuestra PyME contamos con los medios humanos y maquinaria adecuada para la
                 realización de los trabajos que ofrecemos, dando un servicio en
                 las mejores condiciones de precio, calidad y cumplimientos de
                 plazos de entrega.
@@ -59,7 +59,7 @@ const QuienesSomos = () => {
             <FaEye className="mx-auto text-4xl text-dgreen " />
             <h2 className="text-2xl">Nuestra Visión</h2>
             <p className="pt-8">
-            Consolidar el reconocimiento en todo el país como PYME de fabricación de piezas de calidad mediante planos o muestras para la Industria Metalmecánica.
+            Consolidar el reconocimiento en todo el país como PyME de fabricación de piezas de calidad mediante planos o muestras para la Industria Metalmecánica.
             </p>
           </div>
         </section>
