@@ -22,10 +22,9 @@ const QuienesSomos = () => {
               <p className="font-bold">MAM Mecanizados CNC</p>
               <p>
                 Contamos con los medios para prestar servicio de
-                mecanizados especialmente por control númerico C.N.C.  Nuestra
-                Estamos ubicados en Godoy Cruz centro, Mendoza.
+                mecanizados especialmente por control númerico Control Numérico Computarizado. Estamos ubicados en Godoy Cruz centro, Mendoza.
               </p>
-              <p>El titular: Técnico en producción industrial automatizada, con más de 25 años de experiencia en el rubro Metal Mecánico</p>
+              <p>Titular: Técnico Universitario en Producción Industrial Automatizada, con más de 25 años de experiencia en el rubro Metal Mecánico</p>
               <p>
                 Nos caracterizamos por el trabajo en equipo y alto compromiso
                 laboral.
