@@ -4,7 +4,7 @@ import TopMainScreen from "./TopMainScreen";
 import Footer from "./Footer";
 import NavBar from "./NavBar";
 import MobileNavBar from "./MobileNavBar";
-import WhatsappIcon from "./WhatsappIcon";
+// import WhatsappIcon from "./WhatsappIcon";
 
 
 
@@ -28,7 +28,7 @@ export default function Layout({ children, classHome, classQuienesSomos, classSe
       {children}
 
       <Footer />
-      <WhatsappIcon />
+      {/* <WhatsappIcon /> */}
     </div>
   );
 }

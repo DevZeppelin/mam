@@ -30,7 +30,7 @@ const Footer = () => {
         <div className="text-lg">
           <h2 className="font-extrabold">¡Contactanos hoy!</h2>
 
-          <a
+          {/* <a
             href="https://api.whatsapp.com/send?phone=5492615254680"
             target="_blank"
             rel="noopener"
@@ -43,9 +43,9 @@ const Footer = () => {
               description="2615-254680"
               classType=""
             />
-          </a>
+          </a> */}
 
-          <a
+          {/* <a
             href="https://api.whatsapp.com/send?phone=5492615254680"
             target="_blank"
             rel="noopener"
@@ -58,7 +58,7 @@ const Footer = () => {
               description="+5492615254680"
               classType=""
             />
-          </a>
+          </a> */}
           <a href="mailto:mam.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
             <MainBarButton
               logo={
@@ -66,6 +66,16 @@ const Footer = () => {
               }
               text="Correo electrónico"
               description="mam.mecanizadoscnc@gmail.com"
+              classType=""
+            />
+          </a>
+          <a href="mailto:munoz.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
+            <MainBarButton
+              logo={
+                <FiMail className="text-lgreen text-2xl flex my-auto m-2" />
+              }
+              text="Correo electrónico"
+              description="munoz.mecanizadoscnc@gmail.com"
               classType=""
             />
           </a>

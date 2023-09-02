@@ -15,7 +15,7 @@ const TopLeyend = () => {
         <div className="text-2xl space-x-3 pr-6">
               
           
-        <a
+        {/* <a
                   href="https://api.whatsapp.com/send?phone=5492615254680"
                   target="_blank"
                   rel="noreferrer"
@@ -23,8 +23,8 @@ const TopLeyend = () => {
             <button aria-label="send me a mail" alt="gmail-logo">
               <FiPhoneCall  className="hover:text-dgreen" />
             </button>
-          </a>
-          <a
+          </a> */}
+          {/* <a
                   href="https://api.whatsapp.com/send?phone=5492615254680"
                   target="_blank"
                   rel="noreferrer"
@@ -32,9 +32,18 @@ const TopLeyend = () => {
             <button aria-label="send me a mail" alt="gmail-logo">
               <FaWhatsapp  className="hover:text-dgreen" />
             </button>
-          </a>
+          </a> */}
           <a
             href="mailto:mam.mecanizadoscnc@gmail.com"
+            target="_blank"
+            rel="noopener"
+          >
+            <button aria-label="send me a mail" alt="gmail-logo">
+              <FiMail className="hover:text-dgreen" />
+            </button>
+          </a>
+          <a
+            href="mailto:munoz.mecanizadoscnc@gmail.com"
             target="_blank"
             rel="noopener"
           >

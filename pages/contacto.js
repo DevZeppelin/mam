@@ -31,7 +31,7 @@ const Contacto = () => {
             <b>Instagram</b>: @mammecanizados
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-2 p-6 ">
-            <div>
+            {/* <div>
               <a
                 href="https://api.whatsapp.com/send?phone=5492615254680"
                 target="_blank"
@@ -62,10 +62,24 @@ const Contacto = () => {
                   classType="text-dgreen text-2xl my-2"
                 />
               </a>
-            </div>
+            </div> */}
             <div>
               <a
                 href="mailto:mam.mecanizadoscnc@gmail.com"
+                target="_blank"
+                rel="noopener"
+              >
+                <MainBarButton
+                  logo={
+                    <FiMail className="text-dgreen text-6xl flex my-auto m-4" />
+                  }
+                  text="Correo electrónico"
+                  description="mam.mecanizadoscnc@gmail.com"
+                  classType="text-dgreen text-2xl my-2"
+                />
+              </a>
+              <a
+                href="mailto:munoz.mecanizadoscnc@gmail.com"
                 target="_blank"
                 rel="noopener"
               >

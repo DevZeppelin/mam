@@ -22,7 +22,7 @@ const TopMainScreen = () => {
       </div>
 
       <div className="hidden md:flex justify-between space-x-2 text-center my-auto p-2">
-        <a
+        {/* <a
           href="https://api.whatsapp.com/send?phone=5492615254680"
           target="_blank"
           rel="noopener"
@@ -49,12 +49,20 @@ const TopMainScreen = () => {
             description="+5492615254680"
             classType="text-dgreen font-bold"
           />
-        </a>
+        </a> */}
         <a href="mailto:mam.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
           <MainBarButton
             logo={<FiMail className="text-dgreen text-4xl flex my-auto m-2" />}
             text="Correo electrónico"
             description="mam.mecanizadoscnc@gmail.com"
+            classType="text-dgreen font-bold"
+          />
+        </a>
+        <a href="mailto:munoz.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
+          <MainBarButton
+            logo={<FiMail className="text-dgreen text-4xl flex my-auto m-2" />}
+            text="Correo electrónico"
+            description="munoz.mecanizadoscnc@gmail.com"
             classType="text-dgreen font-bold"
           />
         </a>
