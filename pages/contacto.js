@@ -15,7 +15,7 @@ const Contacto = () => {
         <PageTitle text="Contactanos" />
         <div className="text-center space-y-6 pt-8">
           
-          <h1 className="text-4xl font-extrabold pt-10">¡Contactanos!</h1>
+          
           <p>
             <b>Facebook</b>: MAM Mecanizados
           </p>
@@ -39,20 +39,7 @@ const Contacto = () => {
                   classType="text-dgreen text-2xl my-2"
                 />
               </a>
-              <a
-                href="mailto:munoz.mecanizadoscnc@gmail.com"
-                target="_blank"
-                rel="noopener"
-              >
-                <MainBarButton
-                  logo={
-                    <FiMail className="text-dgreen text-6xl flex my-auto m-4" />
-                  }
-                  text="Correo electrónico"
-                  description="mam.mecanizadoscnc@gmail.com"
-                  classType="text-dgreen text-2xl my-2"
-                />
-              </a>
+              
             </div>
           </div>
         </div>
