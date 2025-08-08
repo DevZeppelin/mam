@@ -61,13 +61,17 @@ const Maquinaria = () => {
                 por su velocidad y practicidad.
               </p>
 
-
               <h2 className="text-3xl text-center pb-4 uppercase pt-12">
                 Torno Pesado Italiano
               </h2>
               <p>2.2 m entre puntos</p>
               <p>500mm de volteo</p>
-              
+
+              <h2 className="text-3xl text-center pb-4 uppercase pt-12">
+                Centro de mecanizado CNC Mitsubishi japonés
+              </h2>
+              <p>20HP con recorridos de 1000mmm x 600mm x 600mm</p>
+              <p>Magazine de 20 herramientas automático</p>
 
               <h2 className="text-3xl text-center pb-4 uppercase pt-12">
                 Fresadora CNC Sistems 850-D
@@ -75,7 +79,7 @@ const Maquinaria = () => {
               <GridComponent2 name="Aporte Fresa Plana" src="/maq2.png" />
               <p>Posee recorridos de x850mm y 450mm z450mm</p>
               <p>Control fagor 8025 con gráficos</p>
-              <p>PEso admitido sobre la mesa 600kg</p>
+              <p>Peso admitido sobre la mesa 600kg</p>
               <p>
                 PC esclava para ejecutar grandes programas en tres dimensiones
               </p>
@@ -96,7 +100,9 @@ const Maquinaria = () => {
               <p>Arbol central porta fresas</p>
               <p>Maquina pesada muy versatil para variedad de mecanizados.</p>
 
-              <h2 className="text-3xl text-center pb-4 uppercase pt-12">Instrumentos de medición:</h2>
+              <h2 className="text-3xl text-center pb-4 uppercase pt-12">
+                Instrumentos de medición:
+              </h2>
               <li className="pt-4"> Micrometros de 0 a 200mm </li>
               <li>Micrometros de profundidad</li>
               <li>Alesometros</li>
@@ -118,8 +124,6 @@ const Maquinaria = () => {
               </h2>
               <GridComponent2 name="Aporte Fresa Plana" src="/cad2.png" />
               <GridComponent2 name="Aporte Fresa Plana" src="/cad1.png" />
-
-             
             </div>
           </section>
         </div>

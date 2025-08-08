@@ -32,6 +32,10 @@ const Servicios = () => {
                         con 350mm de volteo sobre bancada y hasta 1m de largo.{" "}
                       </li>
                       <li>
+                        • Centro de Mecanizado CNC Japonés de recorrido (1m x
+                        500mm x 500mm)
+                      </li>
+                      <li>
                         • Fresados CNC recorridos X 850mm Y 450mm Z 450mm.
                       </li>
                       <li>• Fresados convencionales: Fresadora universal N5</li>
@@ -67,7 +71,6 @@ const Servicios = () => {
             </div>
 
             <div className="mx-2 md:mx-32 mt-8 text-center fadeIn element space-y-4">
-
               <GridComponent name="Fresa Plana" src="/logistica.png" />
 
               <h2 className="text-3xl text-left pb-4">Trabajos</h2>

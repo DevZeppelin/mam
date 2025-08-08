@@ -9,15 +9,13 @@ const TopMainScreen = () => {
     <div className="flex px-2 md:px-12 text-black justify-center md:justify-between py-2">
       <div className="flex-col">
         <Link href="/">
-          <a href="">
-            <img
-              src="/logo.png"
-              alt="building icon logo Ad Service petróleo y agua"
-              height="200"
-              width="200"
-              className="py-4 md:pt-6"
-            />
-          </a>
+          <img
+            src="/logo.png"
+            alt="building icon logo Ad Service petróleo y agua"
+            height="200"
+            width="200"
+            className="py-4 md:pt-6"
+          />
         </Link>
       </div>
 
@@ -50,7 +48,11 @@ const TopMainScreen = () => {
             classType="text-dgreen font-bold"
           />
         </a> */}
-        <a href="mailto:mam.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
+        <a
+          href="mailto:mam.mecanizadoscnc@gmail.com"
+          target="_blank"
+          rel="noopener"
+        >
           <MainBarButton
             logo={<FiMail className="text-dgreen text-4xl flex my-auto m-2" />}
             text="Correo electrónico"
@@ -58,7 +60,11 @@ const TopMainScreen = () => {
             classType="text-dgreen font-bold"
           />
         </a>
-        <a href="mailto:munoz.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
+        <a
+          href="mailto:munoz.mecanizadoscnc@gmail.com"
+          target="_blank"
+          rel="noopener"
+        >
           <MainBarButton
             logo={<FiMail className="text-dgreen text-4xl flex my-auto m-2" />}
             text="Correo electrónico"

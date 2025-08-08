@@ -1,7 +1,7 @@
 import MainBarButton from "./MainBarButton";
 import { FaWhatsapp } from "react-icons/fa";
 import { FiMail, FiPhoneCall } from "react-icons/fi";
-import Link from "next/dist/client/link";
+import Link from "next/link";
 import { AiOutlineInstagram, AiOutlineFacebook } from "react-icons/ai";
 
 const Footer = () => {
@@ -11,18 +11,16 @@ const Footer = () => {
         <div className="flex justify-center my-auto">
           <div className="block">
             <Link href="/">
-              <a href="">
-                <img
-                  src="/logo.png"
-                  alt="building icon logo Ad Service petróleo y agua"
-                  height="200"
-                  width="200"
-                  className="mx-auto"
-                />
-                <p className="text-lgreen text-xl mt-4 font-bold text-center">
-                  Mecanizados
-                </p>
-              </a>
+              <img
+                src="/logo.png"
+                alt="building icon logo Ad Service petróleo y agua"
+                height="200"
+                width="200"
+                className="mx-auto"
+              />
+              <p className="text-lgreen text-xl mt-4 font-bold text-center">
+                Mecanizados
+              </p>
             </Link>
           </div>
         </div>
@@ -59,7 +57,11 @@ const Footer = () => {
               classType=""
             />
           </a> */}
-          <a href="mailto:mam.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
+          <a
+            href="mailto:mam.mecanizadoscnc@gmail.com"
+            target="_blank"
+            rel="noopener"
+          >
             <MainBarButton
               logo={
                 <FiMail className="text-lgreen text-2xl flex my-auto m-2" />
@@ -69,7 +71,11 @@ const Footer = () => {
               classType=""
             />
           </a>
-          <a href="mailto:munoz.mecanizadoscnc@gmail.com" target="_blank" rel="noopener">
+          <a
+            href="mailto:munoz.mecanizadoscnc@gmail.com"
+            target="_blank"
+            rel="noopener"
+          >
             <MainBarButton
               logo={
                 <FiMail className="text-lgreen text-2xl flex my-auto m-2" />
@@ -79,7 +85,7 @@ const Footer = () => {
               classType=""
             />
           </a>
-          
+
           <h1 className="pb-4">¡Seguinos en nuestras redes!</h1>
           <div>
             <a
@@ -101,7 +107,6 @@ const Footer = () => {
               </button>
             </a>
           </div>
-
         </div>
       </div>
       <div className="p-4 text-sm bg-black">

@@ -7,25 +7,28 @@ const MobileNavBar = ({ open }) => {
       style={{ display: open ? "block" : "none" }}
     >
       <div className="flex text-right flex-col text-base p-2 text-background mb-5">
-        <Link href="/">
-          <a className="mr-2  mt-2 px-3 hover:border-black">Home</a>
+        <Link href="/" className="mr-2  mt-2 px-3 hover:border-black">
+          Home
         </Link>
-        <Link href="/quienesSomos">
-          <a className="mr-2 mt-5 px-3 hover:border-black">Nosotros</a>
+        <Link
+          href="/quienesSomos"
+          className="mr-2 mt-5 px-3 hover:border-black"
+        >
+          Nosotros
         </Link>
-        <Link href="/servicios">
-          <a className="mr-2 mt-5 px-3 hover:border-black">Servicios</a>
-        </Link>        
-        <Link href="/trabajos">
-          <a className="mr-2 mt-5 px-3 hover:border-black">Trabajos</a>
-        </Link>        
-            
-        <Link href="/Maquinaria">
-          <a className="mr-2 mt-5 px-3 hover:border-black">Maquinaria</a>
-        </Link>        
+        <Link href="/servicios" className="mr-2 mt-5 px-3 hover:border-black">
+          Servicios
+        </Link>
+        <Link href="/trabajos" className="mr-2 mt-5 px-3 hover:border-black">
+          Trabajos
+        </Link>
 
-        <Link href="/contacto">
-          <a className="mr-2 mt-5 px-3 hover:border-black">Contactanos</a>
+        <Link href="/Maquinaria" className="mr-2 mt-5 px-3 hover:border-black">
+          Maquinaria
+        </Link>
+
+        <Link href="/contacto" className="mr-2 mt-5 px-3 hover:border-black">
+          Contactanos
         </Link>
       </div>
     </div>

@@ -45,10 +45,10 @@ const SectionWelcome = () => {
               </p>
 
               <p>
-                Contamos con los medios humanos y maquinaria adecuada para la
-                realización de los trabajos que ofrecemos, dando un servicio en
-                las mejores condiciones de precio, calidad y cumplimientos de
-                plazos de entrega.
+                Contamos con los medios humanos y maquinaria adecuada para
+                realizar los trabajos que ofrecemos, dando un servicio en las
+                mejores condiciones de precio, calidad y cumplimientos de plazos
+                de entrega.
               </p>
             </div>
             <Link href="/contacto">

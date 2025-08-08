@@ -21,19 +21,24 @@ const QuienesSomos = () => {
 
               <p className="font-bold">MAM Mecanizados CNC</p>
               <p>
-                Contamos con los medios para prestar servicio de
-                mecanizados especialmente por control númerico Control Numérico Computarizado. Estamos ubicados en Godoy Cruz centro, Mendoza.
+                Contamos con los medios para prestar servicio de mecanizados
+                especialmente por Control Numérico Computarizado. Estamos
+                ubicados en Godoy Cruz centro, Mendoza.
               </p>
-              <p>Titular: Técnico Universitario en Producción Industrial Automatizada, con más de 25 años de experiencia en el rubro Metal Mecánico</p>
+              <p>
+                Titular: Técnico Universitario en Producción Industrial
+                Automatizada, con más de 27 años de experiencia en el rubro
+                Metal Mecánico
+              </p>
               <p>
                 Nos caracterizamos por el trabajo en equipo y alto compromiso
                 laboral.
               </p>
               <p>
-                En nuestra PyME contamos con los medios humanos y maquinaria adecuada para la
-                realización de los trabajos que ofrecemos, dando un servicio en
-                las mejores condiciones de precio, calidad y cumplimientos de
-                plazos de entrega.
+                En nuestra PyME contamos con los medios humanos y maquinaria
+                adecuada para realizar los trabajos que ofrecemos, dando un
+                servicio en las mejores condiciones de precio, calidad y
+                cumplimientos de plazos de entrega.
               </p>
             </div>
             <div>
@@ -50,15 +55,25 @@ const QuienesSomos = () => {
             <BiCheckShield className="mx-auto text-4xl text-dgreen" />
             <h2 className="text-2xl">Nuestra Misión</h2>
             <p>
-              Nuestro principal objetivo es poder brindar un servicio óptimo en cuanto a la calidad y tiempos de entrega. Siempre buscando la mejora continua en cuanto a herramientas, capacitación y maquinaria
+              Nuestro principal objetivo es poder brindar un servicio óptimo en
+              cuanto a la calidad y tiempos de entrega. Siempre buscando la
+              mejora continua en cuanto a herramientas, capacitación y
+              maquinaria
             </p>
-            <p>Enfocados no solo en solucionar los problemas sino mejorar el funcionamiento y durabilidad de los componentes fabricados ya sea en tipo de material, tratamientos térmicos, tolerancias dimensionales, rugosidades, etc...</p>
+            <p>
+              Enfocados no solo en solucionar los problemas sino mejorar el
+              funcionamiento y durabilidad de los componentes fabricados ya sea
+              en tipo de material, tratamientos térmicos, tolerancias
+              dimensionales, rugosidades, etc...
+            </p>
           </div>
           <div className="space-y-4">
             <FaEye className="mx-auto text-4xl text-dgreen " />
             <h2 className="text-2xl">Nuestra Visión</h2>
             <p className="pt-8">
-            Consolidar el reconocimiento en todo el país como PyME de fabricación de piezas de calidad mediante planos o muestras para la Industria Metalmecánica.
+              Consolidar el reconocimiento en todo el país como PyME de
+              fabricación de piezas de calidad mediante planos o muestras para
+              la Industria Metalmecánica.
             </p>
           </div>
         </section>
