@@ -41,8 +41,9 @@ export default function Home() {
               MAM MECANIZADOS CNC
             </h1>
             <p className="text-white">
-            Titular: Técnico Universitario en Producción Industrial Automatizada, con mas de
-              26 años de experiencia en el rubro metal mecánico
+              Titular: Técnico Universitario en Producción Industrial
+              Automatizada, con mas de 28 años de experiencia en el rubro metal
+              mecánico
             </p>
           </div>
         </section>
